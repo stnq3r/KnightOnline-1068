@@ -1,4 +1,4 @@
-// VersionManagerDlg.cpp : implementation file
+﻿// VersionManagerDlg.cpp : implementation file
 //
 
 #include "stdafx.h"

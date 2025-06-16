@@ -1,4 +1,4 @@
-// ItemManager.h : main header file for the ITEMMANAGER application
+﻿// ItemManager.h : main header file for the ITEMMANAGER application
 //
 
 #if !defined(AFX_ITEMMANAGER_H__9B641F5C_3768_400F_B6D3_5BC6392010E8__INCLUDED_)

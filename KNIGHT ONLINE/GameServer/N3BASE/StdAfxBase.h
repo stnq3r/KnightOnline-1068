@@ -1,4 +1,4 @@
-#if !defined(AFX_STDAFX_H__N3BASE__INCLUDED_)
+﻿#if !defined(AFX_STDAFX_H__N3BASE__INCLUDED_)
 #define AFX_STDAFX_H__N3BASE__INCLUDED_
 
 // TODO: reference additional headers your program requires here

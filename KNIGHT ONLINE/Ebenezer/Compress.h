@@ -1,4 +1,4 @@
-#ifndef __COMPRESS_H
+﻿#ifndef __COMPRESS_H
 #define __COMPRESS_H
 
 typedef enum 

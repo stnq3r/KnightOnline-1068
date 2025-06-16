@@ -1,4 +1,4 @@
-// Aujard.h : main header file for the AUJARD application
+﻿// Aujard.h : main header file for the AUJARD application
 //
 
 #if !defined(AFX_AUJARD_H__8E466E6E_163E_4622_8610_501586363AD4__INCLUDED_)

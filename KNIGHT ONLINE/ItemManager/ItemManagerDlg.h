@@ -1,4 +1,4 @@
-// ItemManagerDlg.h : header file
+﻿// ItemManagerDlg.h : header file
 //
 
 #if !defined(AFX_ITEMMANAGERDLG_H__37DB9CC2_C6BC_4681_B13C_E44658B45FD8__INCLUDED_)

@@ -1,4 +1,4 @@
-// VersionManager.h : main header file for the VERSIONMANAGER application
+﻿// VersionManager.h : main header file for the VERSIONMANAGER application
 //
 
 #if !defined(AFX_VERSIONMANAGER_H__0D350B04_57C4_481C_AF95_CD1337B02391__INCLUDED_)

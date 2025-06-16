@@ -1,4 +1,4 @@
-// CentralDir.cpp: implementation of the CCentralDir class.
+ï»¿// CentralDir.cpp: implementation of the CCentralDir class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.
@@ -176,7 +176,7 @@ void CCentralDir::ReadHeaders()
 	for (int i = 0; i < m_uEntriesNumber; i++)
 	{
 		CFileHeader* pHeader = new CFileHeader;
-		m_headers.Add(pHeader); // bezpoœrednio nastêpuje w razie wyj¹tku
+		m_headers.Add(pHeader); // bezpoÅ“rednio nastÃªpuje w razie wyjÂ¹tku
 
 		if (!pHeader->Read(m_pStorage))
 			ThrowError(ZIP_BADZIPFILE);

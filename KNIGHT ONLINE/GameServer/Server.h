@@ -1,4 +1,4 @@
-// Server.h : main header file for the SERVER application
+﻿// Server.h : main header file for the SERVER application
 //
 
 #if !defined(AFX_SERVER_H__FE4004BC_D932_4B3B_A9A0_F0E9A95CE5C9__INCLUDED_)

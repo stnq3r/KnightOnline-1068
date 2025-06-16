@@ -1,4 +1,4 @@
-// Ebenezer.h : main header file for the EBENEZER application
+﻿// Ebenezer.h : main header file for the EBENEZER application
 //
 
 #if !defined(AFX_EBENEZER_H__CCD753A4_B614_486A_895D_330D83D9775F__INCLUDED_)

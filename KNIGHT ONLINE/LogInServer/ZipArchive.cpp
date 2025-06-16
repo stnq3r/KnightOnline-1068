@@ -1,4 +1,4 @@
-// ZipArchive.cpp: implementation of the CZipArchive class.
+Ôªø// ZipArchive.cpp: implementation of the CZipArchive class.
 //
 ////////////////////////////////////////////////////////////////////////////////
 //  Copyright (C) 2000 Tadeusz Dracz.
@@ -843,7 +843,7 @@ void CZipArchive::DeleteInternal(WORD uIndex)
 	
 	m_centralDir.RemoveFile(uIndex);
 	
-	// teraz uaktualnij offsety w pozosta≥ych pozycjach central dir 
+	// teraz uaktualnij offsety w pozosta≈Çych pozycjach central dir 
 	// (update offsets in file headers in the central dir)
 	if (uOtherOffsetChanged)
 		for (int i = uIndex; i < GetNoEntries(); i++)
@@ -864,7 +864,7 @@ CString CZipArchive::GetDrive(LPCTSTR lpszFilePath)
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//	∆Ø¡§ µ∑∫≈‰∏Æ∏¶ ¡¶∞≈«—√º æ–√‡«—¥Ÿ. 2001.5.30
+//	ÌäπÏ†ï ÎîîÎ†âÌÜ†Î¶¨Î•º Ï†úÍ±∞ÌïúÏ≤¥ ÏïïÏ∂ïÌïúÎã§. 2001.5.30
 //
 BOOL CZipArchive::AddNewFile(LPCTSTR lpszFilePath, LPCTSTR strPath, int iLevel, unsigned long nBufSize)
 {

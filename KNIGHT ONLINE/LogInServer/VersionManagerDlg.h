@@ -1,4 +1,4 @@
-// VersionManagerDlg.h : header file
+﻿// VersionManagerDlg.h : header file
 //
 
 #if !defined(AFX_VERSIONMANAGERDLG_H__1563BFF5_5A54_47E5_A62C_7C123D067588__INCLUDED_)

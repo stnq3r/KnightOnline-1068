@@ -1,4 +1,4 @@
-// IOCPort.h: interface for the CIOCPort class.
+ï»¿// IOCPort.h: interface for the CIOCPort class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -49,7 +49,7 @@ public:
 	CIOCPSocket2 **m_SockArray;
 	CIOCPSocket2 **m_SockArrayInActive;
 
-	CIOCPSocket2 **m_ClientSockArray;		// Connect¿ë ¼ÒÄÏ
+	CIOCPSocket2 **m_ClientSockArray;		// ConnectÂ¿Ã« Â¼Ã’Ã„Ã
 
 protected:
 	DWORD m_dwNumberOfWorkers;

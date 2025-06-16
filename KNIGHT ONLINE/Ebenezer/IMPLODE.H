@@ -1,4 +1,4 @@
-/***************************************************************
+﻿/***************************************************************
  PKWARE Data Compression Library (R) for Win32
  Copyright 1991,1992,1994,1995 PKWARE Inc.  All Rights Reserved.
  PKWARE Data Compression Library Reg. U.S. Pat. and Tm. Off.
